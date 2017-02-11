@@ -33,16 +33,16 @@ The data comes from the UCI Machine Learning [Database](https://archive.ics.uci.
   
   If you need help running the notebook file, check out the Jupyter notebook lesson.
   
-  ## Feedback
-  You can expect to get feedback from your Udacity reviewer within 3-4 days.
+## Feedback
+You can expect to get feedback from your Udacity reviewer within 3-4 days.
   
-  ## Submission
-  1. Ensure you've passed all the unit tests in the notebook.
-  2. Ensure you pass all points on the rubric.
-  3. When you're done with the project, please save the notebook as an HTML file. You can do this by going to the File menu in     the notebook and choosing "Download as" > HTML. Ensure you submit both the Jupyter Notebook and it's HTML version together.
-  4. Package the notebook and the HTML file into a zip archive, or push the notebook and the HTML file to a GitHub repo.
-  5. Hit Submit Project below!
+## Submission
+1. Ensure you've passed all the unit tests in the notebook.
+2. Ensure you pass all points on the rubric.
+3. When you're done with the project, please save the notebook as an HTML file. You can do this by going to the File menu in     the notebook and choosing "Download as" > HTML. Ensure you submit both the Jupyter Notebook and it's HTML version together.
+4. Package the notebook and the HTML file into a zip archive, or push the notebook and the HTML file to a GitHub repo.
+5. Hit Submit Project below!
     
- ## What to do afterwards
+## What to do afterwards
 If you're waiting for new content or to get the review back, here's a great video from Frank Chen about the history of deep learning. It's a 45 minute video, sort of a short documentary, starting in the 1950s and bringing us to the current boom in deep learning and artificial intelligence [link] (https://vimeo.com/170189199).
 
