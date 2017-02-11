@@ -17,11 +17,14 @@ The data comes from the UCI Machine Learning [Database](https://archive.ics.uci.
     conda create --name dlnd python=3
     ```
   5. Enter your new environment:
+  
+    Mac/Linux: 
     ```
-    Mac/Linux: >> source activate dlnd
+    >> source activate dlnd
     ```
+    Windows:
     ```
-    Windows: >> activate dlnd
+    >> activate dlnd
     ```
   
   6. Ensure you have **numpy**, **matplotlib**, **pandas**, and **jupyter** notebook installed by doing the following:
